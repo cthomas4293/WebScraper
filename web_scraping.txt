@@ -1,0 +1,25 @@
+What is web scraping?
+
+Web scraping is taking the html, css and javascript files from a website and removing all unnecessary information. Then using the useful information to do somtheing else.
+
+Html - the content/ text and images/ of a web page.
+
+Javascript - The actions that happen on a webpage. Ex: dropdown, menus
+
+CSS - the colors, pictures, pretty stuff that is on a webpage
+
+Server - a computer somewhere in the world that hosts the html, java and css files views to you on a webpage.
+
+Robots.txt - gives you details about what you can and cannot scrape on a webpage. Just type robots.txt at the end of any webpage to pull it up.
+
+Crawl delay - the delay in which our program gets information from website so that we don't overload servers.
+
+Endpoints - the last folder in a repository or directory, usually used in web development.
+
+** There are ethics involved with scraping and although we are not disallowed from scraping anything, it is frowned upon to scraped disallowed content **
+
+** some websites use api's where as some just have their data on the page, either way they can be scraped there just may be some hoops you have to jump through. **
+
+Indexing - creating a database or organized collection of information to use for later use.
+
+Search Engine Bots - They use indexing to look for what you search and give you the most relevant data according to your search. Although they have to abide by the robot.txt files as well.
